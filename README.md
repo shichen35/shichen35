@@ -1,12 +1,12 @@
 # Hi, I'm Chen Shi 👋
 
-Engineering intelligence, designing with taste.
+Engineering intelligence. Designing with taste.
 
 ### What I Believe
 
-- Taste beats capability. When almost anyone can build anything, knowing what to create—and what to leave out—is the real competitive edge.
-- Solve problems, don't chase hype. AI is a tool, not the goal. Software that delivers real value speaks for itself.
-- Details define the experience. Thoughtful interactions, sensible defaults, and software that feels effortless to use.
+- Taste matters.
+- Build stuff that matters.
+- Nail the details.
 
 ---
 
